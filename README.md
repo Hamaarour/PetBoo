@@ -1,7 +1,10 @@
 # PetBoo
 ![1](https://user-images.githubusercontent.com/64094468/192817081-0f3f1db6-d6ad-4c8a-aecc-104278befaf9.svg)
 <hr>
+<<<<<<< HEAD
 <hr>
+=======
+>>>>>>> 92440392ce97a98df4e04762fc38eb61a8830c7e
 Pet adoption site
 Save as many animals as possible from homelessness.<br>
 Connect to a global community of pet lovers.<br>
@@ -41,4 +44,3 @@ Facilitate the search for an adopter for the animal.<br>
 ![info](https://user-images.githubusercontent.com/64094468/192814083-dbe9cf0c-da73-44a5-b028-0e6f0511a387.png)
 ![profile](https://user-images.githubusercontent.com/64094468/192814089-92a05d09-3a3a-470b-8a10-9892a5bbfc0d.png)
 ![annonce detail](https://user-images.githubusercontent.com/64094468/192814096-b80ef536-8be9-4457-8d8c-b886e190e475.png)
-
