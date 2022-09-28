@@ -31,6 +31,7 @@ Facilitate the search for an adopter for the animal.<br>
 ![profile](https://user-images.githubusercontent.com/64094468/192812164-4b0064f9-3bd1-45bf-8363-e10455ed736d.png)
 <hr><hr>
 # Design for Phone screen
+
 ![home](https://user-images.githubusercontent.com/64094468/192813659-059efdf2-f578-4066-af98-93177c1831f5.png)
 ![menu 3](https://user-images.githubusercontent.com/64094468/192813646-df896bbe-d07e-47bd-a09b-4cf9432f8ee1.png)
 ![login](https://user-images.githubusercontent.com/64094468/192813812-74dec034-5656-464c-aecd-9bbbb5f609fa.png)
