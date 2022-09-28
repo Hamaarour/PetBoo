@@ -38,4 +38,3 @@ Facilitate the search for an adopter for the animal.<br>
 ![info](https://user-images.githubusercontent.com/64094468/192814083-dbe9cf0c-da73-44a5-b028-0e6f0511a387.png)
 ![profile](https://user-images.githubusercontent.com/64094468/192814089-92a05d09-3a3a-470b-8a10-9892a5bbfc0d.png)
 ![annonce detail](https://user-images.githubusercontent.com/64094468/192814096-b80ef536-8be9-4457-8d8c-b886e190e475.png)
-
