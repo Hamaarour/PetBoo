@@ -10,7 +10,7 @@ Facilitate the adoption of animals.<br>
 Facilitate the search for an adopter for the animal.<br>
 <hr><hr>
 # Design for laptop screen
-<hr><hr>
+
 ![landing](https://user-images.githubusercontent.com/64094468/192811463-82902456-dce6-4c66-838c-4ee8f6dc89ee.png)
 ![se connecter](https://user-images.githubusercontent.com/64094468/192811512-950b1c2e-eb7e-4888-8c00-c4f2bcca787e.png)
 ![Forget password](https://user-images.githubusercontent.com/64094468/192811551-b36f03ff-d90e-40c4-a5e7-2af2154b6c86.png)
