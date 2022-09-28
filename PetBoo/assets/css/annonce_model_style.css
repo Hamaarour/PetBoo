@@ -1,0 +1,123 @@
+.modal-bg {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    transition: visibility 0s, opacity 0.5s;
+}
+
+.bg-active {
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1.0);
+    transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.modal {
+    position: relative;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.modal button {
+    padding: 10px 30px;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    font-family: '', sans-serif;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.modal button:hover {
+    background-color: #67aad6;
+
+}
+
+.modal-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.modal-bg .modal .attention {
+    color: rgb(185, 11, 11);
+
+}
+
+.attention-icon {
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 50px;
+}
+
+ion-icon {
+    display: inline-block;
+}
+
+.appeler {
+    margin-top: 10px;
+    color: hsl(353, 100%, 78%);
+
+}
+
+.appeler ion-icon {
+    font-size: larger
+}
+
+.modal-bg .modal .attention-p {
+
+    font-size: 14px;
+}
+
+.modal-bg .modal .attention-p2 {
+    padding-top: 0;
+    font-size: 12px;
+    color: rgb(207, 56, 56);
+    font-weight: 700;
+}
+
+.contact-us {
+    text-decoration: underline;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.contact-us:hover {
+    font-size: 17px;
+    color: hsl(256, 52%, 40%);
+}
+
+@media screen and (max-width:668px) {
+
+    .modal {
+        position: relative;
+        background-color: white;
+        width: 90%;
+        height: 60%;
+        padding: 15px;
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        border-radius: 5px;
+    }
+}

@@ -1,0 +1,90 @@
+
+.cta {
+    position: relative;
+    margin: auto;
+    
+    padding: 18px 18px;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    border: none;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: mymove 1s infinite;
+    
+}
+
+.cta:before {
+    content: "";
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    display: block;
+    border-radius: 50px;
+    background: #9FD5B8;
+    width: 45px;
+    height: 45px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.cta span {
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: black;
+}
+
+.cta ion-icon {
+    position: relative;
+    top: 0;
+    left: -2px;
+    margin-left: 10px;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: black;
+    stroke-width: 2;
+    -webkit-transform: translateX(-5px);
+    -ms-transform: translateX(-5px);
+    transform: translateX(-5px);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    font-size:25px;
+    --ionicon-stroke-width: 70px;
+    
+}
+
+@keyframes mymove {
+    from {
+        bottom: 2px;
+    }
+
+    to {
+        top: 2px;
+    }
+
+
+}
+.cta:hover:before {
+    width: 100%;
+    background: #9FD5B8;
+}
+
+.cta:hover ion-icon {
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    
+}
+
+.cta:active {
+    -webkit-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+}
+
+

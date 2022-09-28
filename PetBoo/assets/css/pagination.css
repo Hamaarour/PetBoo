@@ -1,0 +1,63 @@
+/*
+-----Pagination
+*/
+
+.pagination ul {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 20px;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.pagination ul li {
+    color: var(--bittersweet);
+
+    line-height: 45px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.3s ease;
+}
+
+.pagination ul li.numb {
+
+    height: 45px;
+    width: 45px;
+    margin: 0 3px;
+    line-height: 45px;
+    border-radius: 50%;
+}
+
+.pagination ul li.numb.first {
+    margin: 0px 3px 0 -5px;
+}
+
+.pagination ul li.numb.last {
+    margin: 0px -5px 0 3px;
+}
+
+.pagination ul li.dots {
+    font-size: 22px;
+    cursor: default;
+}
+
+.pagination ul li.btn {
+    padding: 0 20px;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.pagination li.active,
+.pagination ul li.numb:hover,
+.pagination ul li:first-child:hover,
+.pagination ul li:last-child:hover {
+    color: black;
+    background: var(--bittersweet);
+}
