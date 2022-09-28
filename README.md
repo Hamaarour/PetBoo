@@ -31,7 +31,6 @@ Facilitate the search for an adopter for the animal.<br>
 ![profile](https://user-images.githubusercontent.com/64094468/192812164-4b0064f9-3bd1-45bf-8363-e10455ed736d.png)
 <hr><hr>
 # Design for Phone screen
-<hr><hr>
 ![home](https://user-images.githubusercontent.com/64094468/192813659-059efdf2-f578-4066-af98-93177c1831f5.png)
 ![menu 3](https://user-images.githubusercontent.com/64094468/192813646-df896bbe-d07e-47bd-a09b-4cf9432f8ee1.png)
 ![login](https://user-images.githubusercontent.com/64094468/192813812-74dec034-5656-464c-aecd-9bbbb5f609fa.png)
@@ -43,4 +42,3 @@ Facilitate the search for an adopter for the animal.<br>
 ![info](https://user-images.githubusercontent.com/64094468/192814083-dbe9cf0c-da73-44a5-b028-0e6f0511a387.png)
 ![profile](https://user-images.githubusercontent.com/64094468/192814089-92a05d09-3a3a-470b-8a10-9892a5bbfc0d.png)
 ![annonce detail](https://user-images.githubusercontent.com/64094468/192814096-b80ef536-8be9-4457-8d8c-b886e190e475.png)
-
