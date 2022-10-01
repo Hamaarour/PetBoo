@@ -1,4 +1,5 @@
-# PetBoo
+<h1 align="center">PetBoo</h1>
+
 ![1](https://user-images.githubusercontent.com/64094468/192817081-0f3f1db6-d6ad-4c8a-aecc-104278befaf9.svg)
 <hr>
 Pet adoption site
